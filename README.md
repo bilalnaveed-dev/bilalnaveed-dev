@@ -93,8 +93,10 @@ const bilal = {
 
 <br/>
 
+## <img src="https://media.giphy.com/media/Yb3d5Cdjd7hb0p6QYa/giphy.gif" width="30"> GitHub Trophies
+
 <div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=bilalnaveed-dev&theme=onedark&no-frame=true&column=7&margin-w=12&margin-h=12" width="100%" alt="github trophies"/>
+  <img src="./profile/trophies.svg" width="100%" alt="github trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a1aa-11eb-8f25-2c9988eb1b19.gif" width="100%" alt="divider"/>
