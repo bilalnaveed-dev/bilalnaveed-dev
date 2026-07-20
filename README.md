@@ -77,8 +77,8 @@ const bilal = {
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bilalnaveed-dev&show_icons=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&rank_icon=github" alt="github stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalnaveed-dev&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&border_color=30363D&langs_count=8" alt="top languages"/>
+  <img height="170" src="./profile/stats.svg" alt="github stats"/>
+  <img height="170" src="./profile/top-langs.svg" alt="top languages"/>
 </div>
 
 <div align="center">
@@ -112,17 +112,17 @@ const bilal = {
 
 <div align="center">
   <a href="https://github.com/bilalnaveed-dev/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilalnaveed-dev&repo=Portfolio&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D" alt="Portfolio repo"/>
+    <img src="./profile/pin-portfolio.svg" alt="Portfolio repo"/>
   </a>
   <a href="https://github.com/bilalnaveed-dev/Resume-Screening">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilalnaveed-dev&repo=Resume-Screening&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D" alt="Resume Screening repo"/>
+    <img src="./profile/pin-resume-screening.svg" alt="Resume Screening repo"/>
   </a>
   <br/>
   <a href="https://github.com/bilalnaveed-dev/Media-Player-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilalnaveed-dev&repo=Media-Player-System&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D" alt="Media Player repo"/>
+    <img src="./profile/pin-media-player.svg" alt="Media Player repo"/>
   </a>
   <a href="https://github.com/bilalnaveed-dev/Ice-Cream-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilalnaveed-dev&repo=Ice-Cream-Project&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D" alt="Ice Cream Project repo"/>
+    <img src="./profile/pin-ice-cream.svg" alt="Ice Cream Project repo"/>
   </a>
 </div>
 
