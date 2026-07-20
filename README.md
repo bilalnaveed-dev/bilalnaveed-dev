@@ -91,6 +91,12 @@ const bilal = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalnaveed-dev&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=false&border_color=30363D&custom_title=Contribution%20Aurora" width="100%" alt="activity graph"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=bilalnaveed-dev&theme=onedark&no-frame=true&column=7&margin-w=12&margin-h=12" width="100%" alt="github trophies"/>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a1aa-11eb-8f25-2c9988eb1b19.gif" width="100%" alt="divider"/>
 
 <!-- ══════════════════════ SIGNATURE PROJECTS ══════════════════════ -->
