@@ -1,12 +1,12 @@
 <!-- ══════════════════════ AURORA HEADER ══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B5CF6,50:22D3EE,100:EC4899&text=Muhammad%20Bilal%20Naveed&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20Crafting%20Interfaces%20That%20Feel%20Alive&descSize=16&descAlignY=52" width="100%" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B5CF6,50:22D3EE,100:EC4899&text=Muhammad%20Bilal%20Naveed&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20(MERN)%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Python&descSize=16&descAlignY=52" width="100%" alt="header banner"/>
 </div>
 
 <!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
 <div align="center">
   <a href="https://github.com/bilalnaveed-dev">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%9A%80;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+React;Exploring+UI%2FUX+%26+Graphic+Design+%F0%9F%8E%A8;Building+clean%2C+responsive+web+interfaces+%E2%9C%A8" alt="typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+(MERN)+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%E2%80%A2+Python+Developer+%F0%9F%A4%96;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Django;Building+SaaS%2C+ERPs+%26+AI-powered+systems+%E2%9C%A8" alt="typing animation"/>
   </a>
 </div>
 
@@ -20,7 +20,7 @@
   <a href="https://github.com/bilalnaveed-dev/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
   </a>
-  <a href="mailto:bilalnaveed.dev@gmail.com">
+  <a href="mailto:bilalnaveed4520@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=bilalnaveed-dev&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views"/>
@@ -33,20 +33,25 @@
 
 ```javascript
 const bilal = {
-    location: "Narowal, Pakistan 🇵🇰",
-    education: "UET",
-    role: "Frontend Developer",
-    code: ["HTML", "CSS", "JavaScript", "React"],
-    passion: "UI/UX & Graphic Design",
-    currentFocus: "Building clean, responsive web interfaces",
-    funFact: "I debug with console.log() and I'm not ashamed 😄",
+    location: "Lahore, Pakistan 🇵🇰",
+    education: "BS Computer Science @ UET Lahore (2023–2027) — CGPA 3.4",
+    role: "Full Stack (MERN) Developer & AI/ML Enthusiast",
+    experience: "2+ years building production web apps & AI-integrated systems",
+    stack: {
+        frontend:  ["React.js", "Next.js", "React Native", "Tailwind CSS"],
+        backend:   ["Node.js", "Express.js", "Django", "RESTful APIs"],
+        databases: ["MongoDB", "PostgreSQL", "SQLite"],
+        aiMl:      ["OpenAI API", "Google Gemini", "OpenCV", "MediaPipe", "Prompt Engineering"],
+    },
+    shipped: "10+ projects — SaaS ERPs, POS systems, LMS platforms, conversational AI",
+    funFact: "I taught my mouse cursor to follow my eyes 👀",
 };
 ```
 
-- 🌱 Currently deepening my skills in **React** and modern frontend tooling
-- 🎨 Exploring the intersection of **code and design** — pixels matter
-- 💡 I believe great UI is invisible: it just *feels* right
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bilal-naveed-)
+- 💼 Ex **Software Development Intern @ Softsincs** — shipped React frontends & REST APIs for a live production MERN app
+- 🤖 Deep into **conversational AI & computer vision** — Gemini, OpenAI, OpenCV, MediaPipe
+- 🏗️ I build **multi-tenant SaaS platforms** end to end: architecture, APIs, RBAC, UI
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bilal-naveed-) or [email](mailto:bilalnaveed4520@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a1aa-11eb-8f25-2c9988eb1b19.gif" width="100%" alt="divider"/>
 
@@ -55,14 +60,14 @@ const bilal = {
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" alt="frontend skills"/>
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css,flutter&theme=dark" alt="frontend skills"/>
 
-### Design & Tools
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,ps,ai&theme=dark" alt="design tools"/>
+### Backend, APIs & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,mongodb,postgres,sqlite&theme=dark" alt="backend skills"/>
 
-### Also Explored
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet&theme=dark" alt="other skills"/>
+### AI/ML & Tools
+<img src="https://skillicons.dev/icons?i=opencv,git,github,gitlab,bitbucket,docker,postman,vercel,vscode&theme=dark" alt="ai and tools"/>
 
 </div>
 
@@ -88,8 +93,22 @@ const bilal = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a1aa-11eb-8f25-2c9988eb1b19.gif" width="100%" alt="divider"/>
 
-<!-- ══════════════════════ FEATURED PROJECTS ══════════════════════ -->
-## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> Featured Projects
+<!-- ══════════════════════ SIGNATURE PROJECTS ══════════════════════ -->
+## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> Signature Projects
+
+| Project | What it does | Tech |
+|---------|--------------|------|
+| 🍽️ **Restaurant Management SaaS** | Full-scale restaurant operations platform with **74 modules** — POS, inventory, kitchen workflows, and complete **cash-in / cash-out** financial tracking covering every rupee that moves through the restaurant | MERN, Tailwind CSS |
+| 🏙️ **Smart City** | Multi-tenant **real estate ERP SaaS** — 10+ business modules, finance & interactive plot mapping, RBAC for landlords/agents/tenants/admins, automated workflows cutting manual data entry by **70–80%** | React, Node.js, Express, MongoDB |
+| 🎓 **KidsHub** | Gamified **LMS** for school-age students — interactive games, quizzes, visual progress tracking, and role-based dashboards for Student, Teacher, Parent & Admin | MERN, Flutter (mobile) |
+| 🤖 **AI-Powered Chatbot** | Full-stack **conversational AI** on Google Gemini — context-aware real-time responses, OTP email auth with JWT, persistent cross-session chat history | MERN, Gemini API, Vite |
+| 👁️ **Eye-Controlled Mouse** | **Hands-free cursor control** mapping real-time gaze to the mouse — blink-based clicks (single, double, extended), smooth low-latency tracking | Python, OpenCV, MediaPipe |
+| 🕷️ **Web Crawler** | Automated **lead generation** — headless-browser crawler extracting structured contact & business data, cutting manual research by hours per campaign | Node.js, Puppeteer, Cheerio |
+| 📋 **Smart Quest System** | Role-based **academic request tracking** with automated faculty approval hierarchy and auto-escalation on response-time breaches | Django, SQLite |
+
+> 💡 Most of my flagship work lives in **private / client repositories** — the cards below are a sample of my public code.
+
+### 📂 On GitHub
 
 <div align="center">
   <a href="https://github.com/bilalnaveed-dev/Portfolio">
