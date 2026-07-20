@@ -124,6 +124,13 @@ const bilal = {
   <a href="https://github.com/bilalnaveed-dev/Ice-Cream-Project">
     <img src="./profile/pin-ice-cream.svg" alt="Ice Cream Project repo"/>
   </a>
+  <br/>
+  <a href="https://github.com/bilalnaveed-dev/Chatbot">
+    <img src="./profile/pin-chatbot.svg" alt="Chatbot repo"/>
+  </a>
+  <a href="https://github.com/bilalnaveed-dev/Coin-Collector-Assembly-Language">
+    <img src="./profile/pin-coin-collector.svg" alt="Coin Collector repo"/>
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a1aa-11eb-8f25-2c9988eb1b19.gif" width="100%" alt="divider"/>
@@ -135,13 +142,34 @@ const bilal = {
   <img src="https://raw.githubusercontent.com/bilalnaveed-dev/bilalnaveed-dev/output/github-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
 
-<!-- ══════════════════════ FOOTER ══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a1aa-11eb-8f25-2c9988eb1b19.gif" width="100%" alt="divider"/>
+
+<!-- ══════════════════════ LET'S CONNECT ══════════════════════ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Build Something Together
+
+<div align="center">
+
+**🚀 Actively seeking AI/ML & Software Engineering opportunities** — internships, freelance, and collaborations
+
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:EC4899,50:22D3EE,100:8B5CF6&section=footer&animation=twinkling" width="100%" alt="footer"/>
+<a href="https://www.linkedin.com/in/bilal-naveed-">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn CTA"/>
+</a>
+<a href="mailto:bilalnaveed4520@gmail.com">
+  <img src="https://img.shields.io/badge/Drop_Me_an_Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email CTA"/>
+</a>
+<a href="https://github.com/bilalnaveed-dev?tab=followers">
+  <img src="https://img.shields.io/github/followers/bilalnaveed-dev?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=8B5CF6&labelColor=0D1117" alt="GitHub followers"/>
+</a>
+
+<br/><br/>
+
+<sub>⚡ <i>"First, solve the problem. Then, write the code."</i> — John Johnson</sub>
+
 </div>
 
+<!-- ══════════════════════ FOOTER ══════════════════════ -->
 <div align="center">
-  <sub>💜 Designed with an Aurora Night palette — <code>#8B5CF6</code> • <code>#22D3EE</code> • <code>#EC4899</code></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:EC4899,50:22D3EE,100:8B5CF6&section=footer&animation=twinkling" width="100%" alt="footer"/>
 </div>
